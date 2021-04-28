@@ -25,5 +25,5 @@ Gather temperature data for the months of June and December in Oahu, in order to
 ## Summary
 According to the data, the weather is fairly similar in during the months of June and December in Oahu. Given this, one could extrapolate that the weather is fairly consistent year round and at these consistent moderate temperatures, one can deem the surf and icream shop business is sustainable year-round.
 
-One addtional query can be made on the precipation June, and a second query can be made to gather data on the precipation for December. Use these queries, one could extrapolate the amount of rain Oahu receives year-round. Rainy weather could also affect the year-round sustainability of the ice cream shp business.
+One addtional query can be made on the precipation June, and a second query can be made to gather data on the precipation for December. Using these queries, one could extrapolate the amount of rain Oahu receives year-round. Rainy weather could also affect the year-round sustainability of the ice cream shp business.
 
